@@ -6,6 +6,7 @@ dfiles checkout master
 
 # Requisitos
 
+- i3
 - Bumblebee bar (https://github.com/tobi-wan-kenobi/bumblebee-status)
 - Plug Vim (https://github.com/junegunn/vim-plug)
-- i3
+- Awesome Terminal Fonts (https://github.com/gabrielelana/awesome-terminal-fonts)
